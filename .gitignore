@@ -1,3 +1,9 @@
+credentials*
+20*
+*_gdrive_bkup*
+try01.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
